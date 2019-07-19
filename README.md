@@ -11,7 +11,7 @@ UserDefaults demo app
 ## Requirements
 
 - Xcode 10
-- iOS 12 and watchOS 5
+- iOS 12
 
 
 ## How to build
